@@ -1,3 +1,3 @@
 PointAndClick3
 
-A "point and click" game that it main character is a vampire.
+A "point and click" game that its main character is a vampire.
