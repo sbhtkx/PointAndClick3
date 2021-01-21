@@ -1,3 +1,3 @@
 PointAndClick3
 
-משחק "פוינט אנד קליק" שדמותו הראשית היא ערפד.
+A "point and click" game that it main character is a vampire.
